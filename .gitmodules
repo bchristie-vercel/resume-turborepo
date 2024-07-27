@@ -1,0 +1,6 @@
+[submodule "apps/resume-frontend"]
+	path = apps/resume-frontend
+	url = https://github.com/bchristie-vercel/resume-frontend
+[submodule "apps/resume-cms"]
+	path = apps/resume-cms
+	url = https://github.com/bchristie-vercel/resume-cms
